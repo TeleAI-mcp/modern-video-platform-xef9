@@ -1,2 +1,3 @@
-# modern-video-platform-xef9
-Automated issue comment bot repository
+# Modern Video Platform Xef9
+
+Automated issue comment bot repository.
